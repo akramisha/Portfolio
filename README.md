@@ -11,4 +11,4 @@ Project showcase section
 TECHNOLOGIES USED:
 
 HTML, CSS, JavaScript
-(Add other technologies/frameworks if applicable)
+(Add other technologies/frameworks)
